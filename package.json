@@ -1,0 +1,17 @@
+{
+  "name": "pkgtest",
+  "version": "1.0.0",
+  "description": "Test package: one lodash-based string helper",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
